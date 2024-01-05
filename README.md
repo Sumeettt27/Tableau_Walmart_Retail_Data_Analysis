@@ -3,7 +3,8 @@
 This is a sample Walmart retail dataset analysis between the years 2012 and 2015.
 
 Dashboard Link:
-https://public.tableau.com/app/profile/sumeet.parmar/viz/WalmartRetailDataAnalysis_17042695599130/Dashboard1?publish=yes
+<a href="https://public.tableau.com/app/profile/sumeet.parmar/viz/WalmartRetailDataAnalysis_17042695599130/Dashboard1?publish=yes" target="_blank"/>Dashboard</>
+
 
 <br/>
 <div style="text-align: center;">
